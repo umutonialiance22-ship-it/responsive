@@ -1,6 +1,6 @@
 # MoMo Admin — Tailwind CSS Dashboard
 
-**Live demo:** _Add your deployed URL here after deployment._
+**Live demo:** https://responsive-l8d6.onrender.com
 
 A responsive fictional mobile-money admin dashboard built with **Tailwind CSS v4, Vite, HTML, and vanilla JavaScript**. All dashboard figures and customer records are illustrative sample data. This project is not connected to a real payment provider.
 
